@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MovielixReactApp/static/css/main.f9792134.css",
+    "main.js": "/MovielixReactApp/static/js/main.0b8350e0.js",
+    "static/js/787.cd60fb8e.chunk.js": "/MovielixReactApp/static/js/787.cd60fb8e.chunk.js",
+    "static/media/4.jpg": "/MovielixReactApp/static/media/4.205c4d3cb3992c20af26.jpg",
+    "static/media/head.png": "/MovielixReactApp/static/media/head.02acca9b1c7ba9e26c92.png",
+    "static/media/mobile.png": "/MovielixReactApp/static/media/mobile.5ea7905dec53c4abfc74.png",
+    "static/media/about2.jpg": "/MovielixReactApp/static/media/about2.faa9aec5c6fd50a54c12.jpg",
+    "static/media/3.jpg": "/MovielixReactApp/static/media/3.8ae06072686918fa322d.jpg",
+    "static/media/2.jpeg": "/MovielixReactApp/static/media/2.53dc228a8f289499f9a2.jpeg",
+    "static/media/5.jpg": "/MovielixReactApp/static/media/5.53865f17c46163cc77b3.jpg",
+    "static/media/1.jpg": "/MovielixReactApp/static/media/1.6b23ba725e4f9d974452.jpg",
+    "static/media/6.jpg": "/MovielixReactApp/static/media/6.56d2e5c08b4b484c0e69.jpg",
+    "static/media/Logo.png": "/MovielixReactApp/static/media/Logo.6c5dc5c969baaac2bbdd.png",
+    "static/media/404.svg": "/MovielixReactApp/static/media/404.eef3f90c1344c7de195dbb68ac66ec3a.svg",
+    "index.html": "/MovielixReactApp/index.html",
+    "main.f9792134.css.map": "/MovielixReactApp/static/css/main.f9792134.css.map",
+    "main.0b8350e0.js.map": "/MovielixReactApp/static/js/main.0b8350e0.js.map",
+    "787.cd60fb8e.chunk.js.map": "/MovielixReactApp/static/js/787.cd60fb8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9792134.css",
+    "static/js/main.0b8350e0.js"
+  ]
+}
